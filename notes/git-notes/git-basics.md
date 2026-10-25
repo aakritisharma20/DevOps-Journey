@@ -106,3 +106,8 @@ UNDO MISTAKES
 git restore --staged filename (removes it from staging without discarding its working tree)
 git restore filename (replaces the file with its index version and uncommitted edits are lost
 git revert HEAD (creates a new commit reversing the last commit)
+
+
+------------------------------------------------------------------------------
+
+

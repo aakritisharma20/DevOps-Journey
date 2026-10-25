@@ -33,4 +33,5 @@ Learning in public: a six-month career switch into **DevOps / SRE / Cloud Infras
 - **Week 1:** Continue Git, Linux and networking.
 
 ## Projects
-Projects will be added here as I complete each phase.
+Projects will be added here as I complete each phase
+.
